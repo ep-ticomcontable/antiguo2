@@ -1,0 +1,105 @@
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Datos.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Datos.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Datos.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Datos.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Datos.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Datos.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Negocio\obj\Debug\Negocio.pdb
+\\Pcprog\ticom contable\Negocio\bin\Debug\Negocio.dll
+\\Pcprog\ticom contable\Negocio\bin\Debug\Negocio.pdb
+\\Pcprog\ticom contable\Negocio\bin\Debug\Negocio.xml
+\\Pcprog\ticom contable\Negocio\bin\Debug\Datos.dll
+\\Pcprog\ticom contable\Negocio\bin\Debug\Entidades.dll
+\\Pcprog\ticom contable\Negocio\bin\Debug\Datos.pdb
+\\Pcprog\ticom contable\Negocio\bin\Debug\Datos.xml
+\\Pcprog\ticom contable\Negocio\bin\Debug\Entidades.pdb
+\\Pcprog\ticom contable\Negocio\bin\Debug\Entidades.xml
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.Resources.resources
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.dll
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.xml
+\\Pcprog\ticom contable\Negocio\obj\Debug\Negocio.pdb
+D:\TICOM CONTABLE\Negocio\bin\Debug\Negocio.dll
+D:\TICOM CONTABLE\Negocio\bin\Debug\Negocio.pdb
+D:\TICOM CONTABLE\Negocio\bin\Debug\Negocio.xml
+D:\TICOM CONTABLE\Negocio\bin\Debug\Datos.dll
+D:\TICOM CONTABLE\Negocio\bin\Debug\Entidades.dll
+D:\TICOM CONTABLE\Negocio\bin\Debug\Datos.pdb
+D:\TICOM CONTABLE\Negocio\bin\Debug\Datos.xml
+D:\TICOM CONTABLE\Negocio\bin\Debug\Entidades.pdb
+D:\TICOM CONTABLE\Negocio\bin\Debug\Entidades.xml
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.Resources.resources
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.dll
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.xml
+D:\TICOM CONTABLE\Negocio\obj\Debug\Negocio.pdb
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Negocio.dll
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Negocio.pdb
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Negocio.xml
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Datos.dll
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Entidades.dll
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Datos.pdb
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Datos.xml
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Entidades.pdb
+D:\PROYECTOS\TICOM CONTABLE\Negocio\bin\Debug\Entidades.xml
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.Resources.resources
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.dll
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.xml
+D:\PROYECTOS\TICOM CONTABLE\Negocio\obj\Debug\Negocio.pdb

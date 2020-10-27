@@ -1,0 +1,48 @@
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\obj\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\PresentacionWPF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\obj\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TS V.2\TICOMSOFTWARE\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Entidades\obj\Debug\Entidades.pdb
+D:\TICOM CONTABLE\Entidades\bin\Debug\Entidades.dll
+D:\TICOM CONTABLE\Entidades\bin\Debug\Entidades.pdb
+D:\TICOM CONTABLE\Entidades\bin\Debug\Entidades.xml
+D:\TICOM CONTABLE\Entidades\obj\Debug\Entidades.Resources.resources
+D:\TICOM CONTABLE\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+D:\TICOM CONTABLE\Entidades\obj\Debug\Entidades.dll
+D:\TICOM CONTABLE\Entidades\obj\Debug\Entidades.xml
+D:\TICOM CONTABLE\Entidades\obj\Debug\Entidades.pdb
+D:\PROYECTOS\TICOM CONTABLE\Entidades\bin\Debug\Entidades.dll
+D:\PROYECTOS\TICOM CONTABLE\Entidades\bin\Debug\Entidades.pdb
+D:\PROYECTOS\TICOM CONTABLE\Entidades\bin\Debug\Entidades.xml
+D:\PROYECTOS\TICOM CONTABLE\Entidades\obj\Debug\Entidades.Resources.resources
+D:\PROYECTOS\TICOM CONTABLE\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+D:\PROYECTOS\TICOM CONTABLE\Entidades\obj\Debug\Entidades.dll
+D:\PROYECTOS\TICOM CONTABLE\Entidades\obj\Debug\Entidades.xml
+D:\PROYECTOS\TICOM CONTABLE\Entidades\obj\Debug\Entidades.pdb

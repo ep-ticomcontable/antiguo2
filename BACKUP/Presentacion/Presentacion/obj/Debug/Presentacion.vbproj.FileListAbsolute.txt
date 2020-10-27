@@ -1,0 +1,648 @@
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.xml
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Presentacion.xml
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Entidades.dll
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Negocio.dll
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Datos.dll
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Entidades.xml
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Negocio.xml
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Datos.pdb
+\\Pcprog\ticom contable\Presentacion\Presentacion\bin\Debug\Datos.xml
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametroLibroMayor.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCuentasTipoOperacion.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEmpresa.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUsuarios.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.form1.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepuracion.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsClientes.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsProveedores.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUbigeo.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoCambio.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuApertura.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal2.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoMoneda.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsMetodoEvaluacion.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoOperacion.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsAduana.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUnidadMedida.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoDocumento.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoExistencia.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEntidadFinanciera.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsDocumentoIdentidad.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteCompras.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsiento.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoApertura.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientosContables.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaBancos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmConsultaSunat.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmEleccionEmpresa.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresa.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerPlanContable.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerProveedor.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmExcel.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmHistorialAbonoPagoCompras.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioSesion.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAsientoApertura.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompra.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteVenta.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVenta.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanContable.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoPago.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.Resources.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanillas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsImpuestosSunat.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasAPagar.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasAPagar.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteCompra.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasACobrar.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLetrasACobrar.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasACobrar.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteVenta.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaEntradasSalidasBancos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsBancos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCheques.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasBanco.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasBancos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModuloBancos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompraRapida.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCCRapida.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasRapidas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraRapida.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametrosCentroCosto.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCrearCentroCosto.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoDeudas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCobranzas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuVentas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteCompras.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuCompras.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoCompra.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.form1.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteCompras.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsiento.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentaNotas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoApertura.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientosContables.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaBancos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmConsultaSunat.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepuracion.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEleccionEmpresa.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresa.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerPlanContable.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerProveedor.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmExcel.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmHistorialAbonoPagoCompras.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioSesion.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAsientoApertura.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCompras.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLibroDiario.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaVentas.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuApertura.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoVenta.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoCompra.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoVenta.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVenta.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompra.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteVenta.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagos.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametroLibroMayor.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanContable.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal2.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTareasModulo.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsAduana.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsClientes.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCuentasTipoOperacion.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsDocumentoIdentidad.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEmpresa.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEntidadFinanciera.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsMetodoEvaluacion.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsProveedores.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoCambio.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoDocumento.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoExistencia.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoMoneda.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoOperacion.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoPago.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUbigeo.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUnidadMedida.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUsuarios.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Pascual\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanillas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsImpuestosSunat.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasAPagar.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasAPagar.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteCompra.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasACobrar.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLetrasACobrar.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasACobrar.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteVenta.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaEntradasSalidasBancos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsBancos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCheques.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasBanco.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasBancos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModuloBancos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompraRapida.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCCRapida.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasRapidas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraRapida.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametrosCentroCosto.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCrearCentroCosto.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoDeudas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCobranzas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuVentas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteCompras.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuCompras.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoCompra.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.form1.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteCompras.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsiento.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentaNotas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoApertura.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientosContables.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaBancos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmConsultaSunat.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepuracion.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEleccionEmpresa.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresa.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerPlanContable.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerProveedor.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmExcel.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmHistorialAbonoPagoCompras.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioSesion.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAsientoApertura.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCompras.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLibroDiario.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaVentas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuApertura.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoVenta.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoCompra.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoVenta.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVenta.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompra.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteVenta.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagos.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametroLibroMayor.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanContable.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal2.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTareasModulo.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsAduana.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsClientes.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCuentasTipoOperacion.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsDocumentoIdentidad.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEmpresa.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEntidadFinanciera.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsMetodoEvaluacion.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsProveedores.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoCambio.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoDocumento.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoExistencia.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoMoneda.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoOperacion.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoPago.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUbigeo.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUnidadMedida.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUsuarios.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaPlanillas.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarPlanillas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarPlanillas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaPlanillas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanillas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsImpuestosSunat.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasAPagar.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasAPagar.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteCompra.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasACobrar.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLetrasACobrar.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasACobrar.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteVenta.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaEntradasSalidasBancos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsBancos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCheques.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasBanco.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasBancos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmModuloBancos.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompraRapida.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCCRapida.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasRapidas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraRapida.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametrosCentroCosto.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmCrearCentroCosto.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoDeudas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmCobranzas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuVentas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteCompras.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuCompras.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoCompra.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentaNotas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCompras.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLibroDiario.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaVentas.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoVenta.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoCompra.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoVenta.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmTareasModulo.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoCierre.resources
+C:\Users\Jean Carlos\Desktop\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsientoCierre.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsientoCierre.resources
+\\Pcprog\ticom contable\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoCierre.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.xml
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Skybound.Gecko.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Utilitarios.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\WebKitBrowser.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\WebKit.Interop.dll
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.xml
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.xml
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.pdb
+D:\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.xml
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraPagoMercaderia.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraMercaderias.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaRegistroLibroDiario.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioLibroDiario.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmBancosConfiguracion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmChequeTalonario.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmGirarCheque.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCajaBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmRegistroLibroDiario.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmSalidaBanco.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTipoSalidas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCajaChica.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaConfiguracion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmRegistrarSalidasCajaChica.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCajaChica.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerCaja.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCaja.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmSalidaCaja.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCaja.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmLibrosPle.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionPagosVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaRegistroAperturas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaPago.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarCompraP.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaRapida.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerCliente.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDetalleVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionesVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaP.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCentroCostos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasNuevo.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAbonosCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionPagos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionesCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDetalleCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaNotasCreditos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCentralizacionCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresaAgente.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsientoCierre.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoCierre.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarPlanillas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaPlanillas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra1.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraPago.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra3.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraP.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanillas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrueba.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsImpuestosSunat.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasAPagar.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprasPorPagar.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasACobrar.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLetrasACobrar.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasACobrar.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobanteVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaEntradasSalidasBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasBanco.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModuloBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompraRapida.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCCRapida.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasRapidas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraRapida.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametrosCentroCosto.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCrearCentroCosto.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoDeudas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCobranzas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.form1.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsiento.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentaNotas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoApertura.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientosContables.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaBancos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmConsultaSunat.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepuracion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEleccionEmpresa.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresa.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerPlanContable.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerProveedor.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmExcel.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmHistorialAbonoPagoCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioSesion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAsientoApertura.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas_ant.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLibroDiario.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaVentas.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuApertura.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompra.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteVenta.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagos.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametroLibroMayor.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanContable.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal2.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTareasModulo.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsAduana.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsClientes.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCuentasTipoOperacion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsDocumentoIdentidad.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEmpresa.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEntidadFinanciera.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsMetodoEvaluacion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsProveedores.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoCambio.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoDocumento.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoExistencia.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoMoneda.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoOperacion.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoPago.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUbigeo.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUnidadMedida.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUsuarios.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmWebCompras.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.Resources.resources
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.xml
+D:\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Presentacion.xml
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Skybound.Gecko.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Utilitarios.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\WebKitBrowser.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\WebKit.Interop.dll
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Entidades.xml
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Negocio.xml
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\bin\Debug\Datos.xml
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioPlanilla.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarIngresosGenericos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComodin.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoPlanilla.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmIngresosGenericos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarApertura.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAperturas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAbonosVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaMercaderiaPago.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaMercaderias.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepositoDetracciones.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevoRegistroApertura.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraPagoMercaderia.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraMercaderias.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaRegistroLibroDiario.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioLibroDiario.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmBancosConfiguracion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmChequeTalonario.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmGirarCheque.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCajaBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmRegistroLibroDiario.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmSalidaBanco.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTipoSalidas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCajaChica.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaConfiguracion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmRegistrarSalidasCajaChica.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCajaChica.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerCaja.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCaja.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmSalidaCaja.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCaja.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmLibrosPle.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionPagosVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaRegistroAperturas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaPago.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarCompraP.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaRapida.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerCliente.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDetalleVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionesVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVentaP.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCentroCostos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasNuevo.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAbonosCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionPagos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAccionesCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDetalleCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaNotasCreditos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCentralizacionCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresaAgente.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsientoCierre.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoCierre.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModificarPlanillas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaPlanillas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra1.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraPago.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra3.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraP.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanillas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrueba.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsImpuestosSunat.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasAPagar.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprasPorPagar.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCanjeLetraComprobantes.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasLetrasACobrar.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLetrasACobrar.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasACobrar.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaEntradasSalidasBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoDeudasBanco.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudasBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmModuloBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompraRapida.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCCRapida.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentasRapidas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompraRapida.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametrosCentroCosto.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpleado.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCrearCentroCosto.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoDeudas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaDeudas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCobranzas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.form1.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAbonoComprobanteCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarAsiento.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAgregarCuentaNotas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientoApertura.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmAsientosContables.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmCajaBancos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmConsultaSunat.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmDepuracion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEleccionEmpresa.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEmpresa.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerPlanContable.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmEscogerProveedor.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmExcel.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmHistorialAbonoPagoCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmInicioSesion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaAsientoApertura.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaComprobanteVentas_ant.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaLibroDiario.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmListaVentas.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmMenuApertura.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaCreditoVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaNotaDebitoVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmNuevaVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteCompra.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagoComprobanteVenta.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPagos.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmParametroLibroMayor.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPlanContable.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmPrincipal2.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTareasModulo.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsAduana.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsClientes.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsCuentasTipoOperacion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsDocumentoIdentidad.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEmpresa.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsEntidadFinanciera.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsMetodoEvaluacion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsProveedores.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoCambio.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoDocumento.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoExistencia.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoMoneda.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoOperacion.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsTipoPago.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUbigeo.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUnidadMedida.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmTsUsuarios.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmWebCompras.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.Resources.resources
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.xml
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+D:\PROYECTOS\TICOM CONTABLE\Presentacion\Presentacion\obj\Debug\Presentacion.frmICajas.resources

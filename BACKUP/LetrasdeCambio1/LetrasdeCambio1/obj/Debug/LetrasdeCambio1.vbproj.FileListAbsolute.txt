@@ -1,0 +1,14 @@
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\bin\Debug\LetrasdeCambio1.exe.config
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\bin\Debug\LetrasdeCambio1.exe
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\bin\Debug\LetrasdeCambio1.pdb
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\bin\Debug\LetrasdeCambio1.xml
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.frmCanjedeletrasporCobrar.resources
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.frmCanjedeletrasporCobrar2.resources
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.frmCanjedeLetrasporPagar.resources
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.Resources.resources
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio1.vbproj.GenerateResource.Cache
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio1.exe
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio1.xml
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio1.pdb
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.frmCanjedeletrasporPagar2.resources
+D:\MICHAEL\11111 contabilidad total\111 TICOM - CONTABLE 111\Contabilidad Temas\letras\LetrasdeCambio1\LetrasdeCambio1\obj\Debug\LetrasdeCambio.reportedeletrasporpagar.resources
